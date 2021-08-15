@@ -28,4 +28,6 @@ AmberWat 様の NegativSpaceFont（https://github.com/AmberWat/NegativeSpaceFont
 
 赤石愛 様の OhMyDat（https://github.com/Ai-Akaishi/OhMyDat）
 
+ちぇん 様の ShapesGenerator（https://chencmd.github.io/Shapes-Generator/）
+
 を使わせていただきました．
